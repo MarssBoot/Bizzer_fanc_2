@@ -1,0 +1,25 @@
+﻿<Window x:Class="My_App_21.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Холст для отрисовки кривых -->
+        <Canvas x:Name="CurveCanvas" Grid.Row="0" Background="White" />
+
+        <!-- Панель управления внизу -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10">
+            <!-- Выбор типа кривой -->
+            <ComboBox x:Name="CurveTypeComboBox" Width="150" Margin="10,0">
+                <ComboBoxItem Content="Кривая Безье" IsSelected="True"/>
+                <ComboBoxItem Content="Прямая линия"/>
+            </ComboBox>
+            <Button x:Name="GenerateCurvesButton" Content="Генерация" Width="150" Margin="10,0" Click="GenerateCurvesButton_Click"/>
+            <Button x:Name="SaveImageButton" Content="Сохранить изображение" Width="200" Margin="10,0" Click="SaveImageButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

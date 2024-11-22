@@ -1,0 +1,14 @@
+C:\Users\white\source\repos\My_App_21\My_App_21\bin\Debug\My_App_21.exe.config
+C:\Users\white\source\repos\My_App_21\My_App_21\bin\Debug\My_App_21.exe
+C:\Users\white\source\repos\My_App_21\My_App_21\bin\Debug\My_App_21.pdb
+C:\Users\white\source\repos\My_App_21\My_App_21\obj\Debug\My_App_21.csproj.AssemblyReference.cache
+C:\Users\white\source\repos\My_App_21\My_App_21\obj\Debug\MainWindow.g.cs
+C:\Users\white\source\repos\My_App_21\My_App_21\obj\Debug\App.g.cs
+C:\Users\white\source\repos\My_App_21\My_App_21\obj\Debug\My_App_21_MarkupCompile.cache
+C:\Users\white\source\repos\My_App_21\My_App_21\obj\Debug\MainWindow.baml
+C:\Users\white\source\repos\My_App_21\My_App_21\obj\Debug\My_App_21.g.resources
+C:\Users\white\source\repos\My_App_21\My_App_21\obj\Debug\My_App_21.Properties.Resources.resources
+C:\Users\white\source\repos\My_App_21\My_App_21\obj\Debug\My_App_21.csproj.GenerateResource.cache
+C:\Users\white\source\repos\My_App_21\My_App_21\obj\Debug\My_App_21.csproj.CoreCompileInputs.cache
+C:\Users\white\source\repos\My_App_21\My_App_21\obj\Debug\My_App_21.exe
+C:\Users\white\source\repos\My_App_21\My_App_21\obj\Debug\My_App_21.pdb
